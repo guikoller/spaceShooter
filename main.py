@@ -10,6 +10,8 @@ WHITE = (255,255,255)
 
 FPS = 60
 
+YELLOW_SPACESHIP_IMAGE = pygame.image.load("Assets/")
+
 def draw_window():
     WIN.fill(WHITE)
     pygame.display.update()
